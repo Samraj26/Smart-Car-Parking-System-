@@ -10,15 +10,7 @@
 
 # # FIREBASE CONFIG
 # firebaseConfig = {
-#   "apiKey": "AIzaSyDBlsxzjvoUCV6bgu6wwTXa2RfcYp4HT2c",
-#   "authDomain": "fir-b8eb1.firebaseapp.com",
-#   "databaseURL": "https://fir-b8eb1-default-rtdb.firebaseio.com",
-#   "projectId": "fir-b8eb1",
-#   "storageBucket": "fir-b8eb1.appspot.com",
-#   "messagingSenderId": "135618758776",
-#   "appId": "1:135618758776:web:7c7df7e53dcb709380858d",
-#   "measurementId": "G-7G845RY86G"
-# }
+#  
 
 # # INITIALIZING FIREBASE
 # firebase = pyrebase.initialize_app(firebaseConfig)
@@ -91,14 +83,14 @@ from pyrebase import pyrebase
 
 # FIREBASE CONFIG
 firebaseConfig = {
-  "apiKey": "AIzaSyDBlsxzjvoUCV6bgu6wwTXa2RfcYp4HT2c",
-  "authDomain": "fir-b8eb1.firebaseapp.com",
-  "databaseURL": "https://fir-b8eb1-default-rtdb.firebaseio.com",
-  "projectId": "fir-b8eb1",
-  "storageBucket": "fir-b8eb1.appspot.com",
-  "messagingSenderId": "135618758776",
-  "appId": "1:135618758776:web:7c7df7e53dcb709380858d",
-  "measurementId": "G-7G845RY86G"
+  "apiKey": 
+  "authDomain":
+  "databaseURL": 
+  "projectId": 
+  "storageBucket": 
+  "messagingSenderId": 
+  "appId": 
+  "measurementId": 
 }
 
 # INITIALIZING FIREBASE
